@@ -53,6 +53,13 @@
     "requestPermissions": [
       {
         "name": "ohos.permission.PUBLISH_AGENT_REMINDER"
+      },
+      {
+        "name": "ohos.permission.SET_UNREMOVABLE_NOTIFICATION",
+        "reason: "向用户发送通知"
+      },
+      {
+        "name": "ohos.permission.INTERNET"
       }
     ]
   }
